@@ -1,5 +1,3 @@
---platform=linux/arm64 nginx
-#支持私库
---platform=linux/arm64 prom/elasticsearch-exporter:latest
+prom/node_exporter:latest
 #支持指定架构
 #--platform=linux/arm64 xxxxxx
