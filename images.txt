@@ -1,1 +1,2 @@
 prom/node_exporter:latest
+prom/consul_exporter:latest
